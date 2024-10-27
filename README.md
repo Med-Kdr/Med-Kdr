@@ -15,21 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Languages and tools
-<a href="https://www.typescriptlang.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="32" height="32">
-</a>
 <a href="https://github.com">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="32" height="32">
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="32" height="32">
 </a>
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="JavaScript Logo" width="32" height="32">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="JavaScript Logo" width="32" height="32">
@@ -57,6 +54,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://spring.io/images/OG-SpringBoot.png" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://fr.wikipedia.org/wiki/Jakarta_EE#/media/Fichier:Jakarta_ee_logo_stacked.png" alt="JavaScript Logo" width="32" height="32">
 </a>
 
 
