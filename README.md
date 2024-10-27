@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="JavaScript Logo" width="32" height="32">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="JavaScript Logo" width="32" height="32">
