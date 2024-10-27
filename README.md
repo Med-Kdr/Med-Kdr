@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="[https://spring.io/images/OG-SpringBoot.png](https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png)" alt="JavaScript Logo" width="32" height="32">
+  <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://images.squarespace-cdn.com/content/5a33e03a18b27d1747158781/1524755447965-L1TQMENP2QPEENO0P5CE/jakarta_ee_logo_schooner_color_stacked_default.png?format=1500w&content-type=image%2Fpng" alt="JavaScript Logo" width="32" height="32">
