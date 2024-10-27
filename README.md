@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="JavaScript Logo" width="32" height="32">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg](https://cdn.neowin.com/news/images/uploaded/2023/04/1681430710_android-studio-logo-hero_itvlb9sxwyxu.jpg)" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="JavaScript Logo" width="32" height="32">
