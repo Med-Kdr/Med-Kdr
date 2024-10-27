@@ -24,6 +24,40 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="32" height="32">
 </a>
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="JavaScript Logo" width="32" height="32">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://spring.io/images/OG-SpringBoot.png" alt="JavaScript Logo" width="32" height="32">
+</a>
 
 
 
