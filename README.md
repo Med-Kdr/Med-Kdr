@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="JavaScript Logo" width="32" height="32">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="JavaScript Logo" width="32" height="32">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="JavaScript Logo" width="32" height="32">
